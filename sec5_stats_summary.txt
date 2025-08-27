@@ -1,8 +1,0 @@
-Section 5.3 Statistical Validation
-Transformer: AnnRet=0.1249, Vol=0.1333, Sharpe=0.0992
-LSTM       : AnnRet=0.1056, Vol=0.1329, Sharpe=0.0794
-
-Diebold–Mariano (loss='neg_return'): DM=-0.948, p(two-sided)=0.3430
-Bootstrap ΔSharpe: 95% CI=[-0.020, 0.067], p(one-sided A<=B)=0.1724
-Lo (2002) HAC Sharpe SE: Sh_T=0.099 (SE=0.048), Sh_L=0.079 (SE=0.047); ΔSh=0.020, z=0.296, p(two-sided)=0.7671
-Jobson–Korkie (Memmel adj., i.i.d.): z=0.948, p(two-sided)=0.3433
