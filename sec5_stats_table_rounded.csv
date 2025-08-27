@@ -1,2 +1,0 @@
-AnnRet_T,Vol_T,Sharpe_T,AnnRet_L,Vol_L,Sharpe_L,DM_stat,DM_p_two_sided,Boot_CI_lo,Boot_CI_hi,Boot_p_one_sided,Lo_Sh_T,Lo_SE_T,Lo_Sh_L,Lo_SE_L,Lo_z_diff,Lo_p_two_sided,JK_z,JK_p_two_sided
-0.125,0.133,0.099,0.106,0.133,0.079,-0.948,0.343,-0.02,0.067,0.172,0.099,0.048,0.079,0.047,0.296,0.767,0.948,0.343
