@@ -1,2 +1,0 @@
-Sharpe diff 95% CI: [-0.020, 0.067]
-p-value (H0: Transf <= LSTM): 0.1724
