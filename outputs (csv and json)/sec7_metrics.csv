@@ -1,5 +1,0 @@
-AnnRet,Vol,Sharpe,MaxDD,Model,FeatureSet
--0.0,7.2111,-0.0,-0.9999,lstm,volcredit
-0.0,7.2111,0.0,-1.0,lstm,mgarch
--0.0,7.2111,-0.0,-1.0,transformer,volcredit
--0.0,7.2111,-0.0,-1.0,transformer,mgarch
