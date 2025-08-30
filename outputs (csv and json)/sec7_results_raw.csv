@@ -1,7 +1,0 @@
-Model,Tag
-lstm,sec7_lstm_returns_only
-transformer,sec7_transformer_returns_only
-lstm,sec7_lstm_volcredit
-transformer,sec7_transformer_volcredit
-lstm,sec7_lstm_mgarch
-transformer,sec7_transformer_mgarch
