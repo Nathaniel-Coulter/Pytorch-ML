@@ -1,0 +1,10 @@
+import pandas as pd
+
+df = pd.read_csv("figures/sec56_metrics_by_entropy.csv")
+
+# round AnnRet, Vol, Sharpe, MaxDD to 5 decimals
+for col in ["AnnRet","Vol","Sharpe","MaxD"]:
+    if col in df.columns:
+        df[col] = df[col].round(5)
+
+df.to_csv("figures/sec56_metrics_by_entropy_rounded.csv", index=False)
